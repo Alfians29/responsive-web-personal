@@ -4,21 +4,21 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from './ui/
 const servicesData = [
   {
     icon: <GanttChartSquare size={72} strokeWidth={0.8} />,
-    title: 'Web Design',
+    title: 'Website Design',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga ducimus obcaecati consectetur! Aspernatur similique quo perferendis nihil neque? Corporis.',
+      'Express your brand visually with our website design services, ensuring a seamless and delightful user experience for your audience.',
   },
   {
     icon: <Blocks size={72} strokeWidth={0.8} />,
-    title: 'Web Development',
+    title: 'Website Development',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam quae eveniet ex nulla veniam qui exercitationem labore, atque, repellat voluptatibus quam quisquam.',
+      'From concept to reality, our website development services bring your vision to life with seamless and effective online solutions.',
   },
   {
     icon: <Gem size={72} strokeWidth={0.8} />,
-    title: 'App Development',
+    title: 'Content Mangement Systems',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum quas odio quidem ipsa sint sapiente expedita? Omnis laborum ad architecto ea officia in quaerat nobi.',
+      'Efficiently manage and update your website content with our straightforward CMS solutions designed for simplicity.',
   },
 ];
 

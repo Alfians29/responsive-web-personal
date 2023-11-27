@@ -17,45 +17,44 @@ import { Pagination } from 'swiper/modules';
 const reviewsData = [
   {
     avatar: '/reviews/avatar-1.png',
-    name: 'Richard Thompson',
-    job: 'Chef',
-    reviews:
-      'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quasi recusandae reprehenderit qui dolorum quas.',
+    name: 'Alice Rodriguez',
+    job: 'Teacher',
+    reviews: 'Thanks to Trafalgar, my classroom website is now interactive and engaging.',
   },
   {
     avatar: '/reviews/avatar-2.png',
-    name: 'Richard Thompson',
-    job: 'Chef',
+    name: 'David Patel',
+    job: 'Fitness Instructor',
     reviews:
-      'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quasi recusandae reprehenderit qui dolorum quas.',
+      'Working with Tra elevated my fitness business online. The website they created is not only visually appealing but also functional.',
   },
   {
     avatar: '/reviews/avatar-3.png',
-    name: 'Richard Thompson',
-    job: 'Chef',
+    name: 'Grace Mitchell',
+    job: 'Event Planner',
     reviews:
-      'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quasi recusandae reprehenderit qui dolorum quas.',
+      'I needed a website that reflected the creativity of my event planning business, and Trafalgar Law delivered.',
   },
   {
     avatar: '/reviews/avatar-4.png',
-    name: 'Richard Thompson',
-    job: 'Chef',
+    name: 'Mike Thompson',
+    job: 'Graphic Designer',
     reviews:
-      'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quasi recusandae reprehenderit qui dolorum quas.',
+      'I approached Trafalgar to revamp my small business website, and the results are fantastic.',
   },
   {
     avatar: '/reviews/avatar-5.png',
-    name: 'Richard Thompson',
+    name: 'Elena Rodriguez',
     job: 'Chef',
     reviews:
-      'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quasi recusandae reprehenderit qui dolorum quas.',
+      'Collaborating with Trafalgar on my portfolio website was a breeze, the site showcases my work beautifully.',
   },
   {
     avatar: '/reviews/avatar-6.png',
-    name: 'Richard Thompson',
-    job: 'Chef',
+    name: 'Daniel Kim',
+    job: 'Writer',
     reviews:
-      'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quasi recusandae reprehenderit qui dolorum quas.',
+      'I needed a personal website to showcase my writing portfolio, and Trafalgar exceeded my expectations.',
   },
 ];
 

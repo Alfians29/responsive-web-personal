@@ -18,73 +18,73 @@ import ProjectCard from './ProjectCard';
 const projectData = [
   {
     image: '/work/1.png',
-    category: 'react js',
-    name: 'Nexa Website',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    category: 'vue js',
+    name: 'QuantumVista.com',
+    description: 'Unlocking the Quantum World: Where Vision Meets the Future.',
     link: '/',
     github: '/',
   },
   {
     image: '/work/2.png',
-    category: 'react js',
-    name: 'Nexa Website',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    category: 'next js',
+    name: 'LunaHarbor.org',
+    description: 'Dock into Discovery: Navigating the Seas of Lunar Knowledge.',
     link: '/',
     github: '/',
   },
   {
     image: '/work/3.png',
-    category: 'next js',
-    name: 'Nexa Website',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    category: 'angular js',
+    name: 'VelvetPenguin.net',
+    description: 'Soft Elegance, Cozy Charm: Velvet Creations for Penguin Lovers.',
     link: '/',
     github: '/',
   },
   {
     image: '/work/4.png',
-    category: 'next js',
-    name: 'Nexa Website',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    category: 'react js',
+    name: 'PixelPioneer.io',
+    description: 'Forge Your Digital Frontier: Pixel Art Adventure Awaits.',
     link: '/',
     github: '/',
   },
   {
     image: '/work/5.png',
-    category: 'vue js',
-    name: 'Nexa Website',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    category: 'angular js',
+    name: 'ZenithMingle.com',
+    description: 'Serene Connections, Mindful Conversations: Where Zenith Meets Community.',
     link: '/',
     github: '/',
   },
   {
     image: '/work/6.png',
     category: 'vue js',
-    name: 'Nexa Website',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    name: 'EmberEchoes.net',
+    description: 'Ignite Imagination: Tales and Tidings from the Embered Realm.',
     link: '/',
     github: '/',
   },
   {
     image: '/work/7.png',
-    category: 'angular js',
-    name: 'Nexa Website',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    category: 'react js',
+    name: 'NebulaNectar.org',
+    description: 'Sip from the Cosmic Cup: A Universe of Knowledge in Every Drop.',
     link: '/',
     github: '/',
   },
   {
     image: '/work/8.png',
-    category: 'angular js',
-    name: 'Nexa Website',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    category: 'next js',
+    name: 'StellarStratos.com',
+    description: 'Beyond the Stars: Gaming Excellence in the Stellar Stratosphere.',
     link: '/',
     github: '/',
   },
   {
     image: '/work/9.png',
-    category: 'angular js',
-    name: 'Nexa Website',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    category: 'react js',
+    name: 'AuroraAlchemy.io',
+    description: 'Illuminate Your Path: Empowering Journeys of Self-Discovery.',
     link: '/',
     github: '/',
   },
@@ -98,8 +98,8 @@ const Work = () => {
         <div className='max-w-[400px] mx-auto xl:mx-0 text-center xl:text-left mb-12 xl:h-[400px] flex flex-col justify-center items-center xl:items-start'>
           <h2 className='section-title mb-4'>Latest Projects</h2>
           <p className='subtitle mb-8'>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Architecto aperiam facilis
-            sint corporis, maxime excepturi.
+            Here are some recent projects that my team and I have completed, if you are interested
+            please click the button below.
           </p>
           <Link href='/projects'>
             <Button>All projects</Button>

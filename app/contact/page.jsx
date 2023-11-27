@@ -15,8 +15,9 @@ const Contact = () => {
             </div>
             <h1 className='h1 max-w-md mb-8'>Let's Work Together.</h1>
             <p className='subtitle max-w-[400px]'>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maxime ea et architecto
-              molestias natus? Veritatis vel sapiente.
+              Embracing the power of collaboration, let's join forces and work together to turn
+              ideas into reality. Together, we can navigate challenges, unlock new possibilities,
+              and create a path to shared success.
             </p>
           </div>
           {/* illustration */}
@@ -29,12 +30,12 @@ const Contact = () => {
             {/* mail */}
             <div className='flex items-center gap-x-8'>
               <MailIcon size={18} className='text-primary' />
-              <div>youremail@gmail.com</div>
+              <div>trafalgar@law.com</div>
             </div>
             {/* address */}
             <div className='flex items-center gap-x-8'>
               <HomeIcon size={18} className='text-primary' />
-              <div>098 Red Wood, SBY, IDN</div>
+              <div>123 MainStreet, SBY, IDN</div>
             </div>
             {/* phone */}
             <div className='flex items-center gap-x-8'>

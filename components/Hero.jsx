@@ -21,8 +21,8 @@ const Hero = () => {
             </div>
             <h1 className='h1'>Hello, my name is Trafalgar Law</h1>
             <p className='subtitle max-w-[490px] mx-auto xl:mx-0'>
-              Brief description with insights into myself, my vocational journey, and what I engage
-              in professionally.
+              A dynamic web developer with a passion for creating elegant and efficient digital
+              solutions to deliver engaging websites.
             </p>
             {/* buttons */}
             <div className='flex flex-col gap-y-3 md:flex-row gap-x-3 mx-auto xl:mx-0 mb-12'>
@@ -47,21 +47,21 @@ const Hero = () => {
             <Badge
               containerStyles='absolute top-[24%] -left-[5rem]'
               icon={<RiBriefcase4Fill />}
-              endCountNum={3}
+              endCountNum={5}
               badgeText='Years Of Experience'
             />
             {/* badge 2 */}
             <Badge
               containerStyles='absolute top-[80%] -left-[1rem]'
               icon={<RiTodoFill />}
-              endCountNum={14}
+              endCountNum={57}
               badgeText='Finished Projects'
             />
             {/* badge 3 */}
             <Badge
               containerStyles='absolute top-[55%] -right-8'
               icon={<RiTeamFill />}
-              endCountNum={21}
+              endCountNum={111}
               endCountText='+'
               badgeText='Happy Clients'
             />

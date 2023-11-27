@@ -15,7 +15,7 @@ import {
 const infoData = [
   {
     icon: <User2 size={20} />,
-    text: 'Muhammad Alfian',
+    text: 'Trafalgar Law',
   },
   {
     icon: <PhoneCall size={20} />,
@@ -23,11 +23,11 @@ const infoData = [
   },
   {
     icon: <MailIcon size={20} />,
-    text: 'myemail@gmail.com',
+    text: 'trafalgar@law.com',
   },
   {
     icon: <Calendar size={20} />,
-    text: 'Born on 29 Aug, 2001',
+    text: 'Born on 6 Oct, 2001',
   },
   {
     icon: <GraduationCap size={20} />,
@@ -35,7 +35,7 @@ const infoData = [
   },
   {
     icon: <HomeIcon size={20} />,
-    text: '098 Red Wood, SBY, IDN',
+    text: '123 MainStreet, SBY, IDN',
   },
 ];
 
@@ -44,19 +44,19 @@ const qualificationData = [
     title: 'education',
     data: [
       {
-        university: 'Example University',
+        university: 'Aurora Tech Institute',
         qualification: 'Bachelor of Science',
-        years: '2015 - 2018',
+        years: '2017',
       },
       {
-        university: 'Another University',
-        qualification: 'Bachelor of Arts',
-        years: '2019 - 2021',
-      },
-      {
-        university: 'Final University',
+        university: 'Horizon Code University',
         qualification: 'Bachelor of Computer Science',
-        years: '2021 - 2025',
+        years: '2019',
+      },
+      {
+        university: 'Quantum State University',
+        qualification: 'Bachelor of Information Technology',
+        years: '2023',
       },
     ],
   },
@@ -65,18 +65,18 @@ const qualificationData = [
     title: 'experience',
     data: [
       {
-        company: 'ABC Inc.',
-        role: 'Software Engineer',
-        years: '2015 - 2018',
+        company: 'TechSprint Innovations',
+        role: 'Software Developer',
+        years: '2017 - 2018',
       },
       {
-        company: 'DEF Inc.',
-        role: 'Senior Developer',
+        company: 'Digital Nexus Solutions',
+        role: 'Front-end Engineer',
         years: '2018 - 2021',
       },
       {
-        company: 'ABC Inc.',
-        role: 'Data Analyst',
+        company: 'ByteCraft Systems',
+        role: 'Senior Software Engineer',
         years: '2021 - Present',
       },
     ],
@@ -166,10 +166,11 @@ const About = () => {
                 {/* personal */}
                 <TabsContent value='personal'>
                   <div className='text-center xl:text-left'>
-                    <h3 className='h3 mb-4'>Unmatched Service Quality for Over 10 Years</h3>
+                    <h3 className='h3 mb-4'>Unmatched Service Quality for Over 5 Years</h3>
                     <p className='subtitle max-w-xl max-auto xl:mx-0'>
-                      I specialize in crafting intuitive websites with cutting-edge technology,
-                      delivering dynamic and engaging user experience.
+                      I am a seasoned web developer proficient in a diverse range of programming
+                      languages and frameworks, bringing a depth of expertise to create innovative
+                      and robust digital solutions.
                     </p>
                     {/* icons */}
                     <div className='grid xl:grid-cols-2 gap-4 mb-12'>
@@ -186,7 +187,7 @@ const About = () => {
                     <div className='flex flex-col gap-y-2'>
                       <div className='text-primary'>Language Skill</div>
                       <div className='border-b border-border'></div>
-                      <div>English, French, Spanish, Italian</div>
+                      <div>English, French, Spanish, Indonesian</div>
                     </div>
                   </div>
                 </TabsContent>
